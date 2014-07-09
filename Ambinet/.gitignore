@@ -1,0 +1,13 @@
+*.exe
+bin/Debug/Ambinet.exe.config
+*.pdb
+bin/
+*/bin/*
+*/obj/*
+*.suo
+*.bak
+*.user
+*.orig
+*.vspx
+*.xsd
+/obj
